@@ -1,0 +1,6 @@
+{
+    "serial": {
+        "port": "/dev/tty.Repleo-CH341-000013FA",
+        "baud_rate": 115200
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "makeblock-xy",
+  "version": "0.0.1",
+  "description": "A repo for using makeblock xy plotter with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VVZen/makeblock-xy.git"
+  },
+  "keywords": [
+    "makeblock",
+    "xy",
+    "plotter"
+  ],
+  "author": "VVZen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VVZen/makeblock-xy/issues"
+  },
+  "homepage": "https://github.com/VVZen/makeblock-xy#readme",
+  "dependencies": {
+    "serialport": "^4.0.7"
+  }
+}
