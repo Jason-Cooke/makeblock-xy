@@ -1,10 +1,17 @@
 
 <h1 align="center">XY</h1>
+<h3 align="center">Warning</h3>
+<p align="center">This is still a sperimental fork please check the original one by
+<a href="https://github.com/arnaudjuracek/xy">https://github.com/arnaudjuracek/xy</a>.
+<br><br>This repo contains a modified version of the firmware that uses the <b>MeOrion.h</b> library by makeblock in order to keep better readability of the code.
+Currently it is still in development.</p><br>
+
 <div align="center">
   <a href="http://www.makeblock.com/xy-plotter-robot-kit/">
     <img src="preview.png?raw=true">
   </a>
 </div>
+
 <h3 align="center">node.js for makeblock XY plotter v2.0</h3>
 <div align="center">
   <!-- License -->
@@ -47,7 +54,7 @@ npm install --save arnaudjuracek/xy
 
 ### Firmware
 - download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
-- open [./firmware/firmware.ino](https://github.com/arnaudjuracek/xy/tree/master/firmware/firmware.ino)
+- open the arduino file in [./firmware/firmware.ino](https://github.com/VVZen/xy/tree/master/firmware/firmware.ino)
 - upload it to your board, making sure you've selected the right port and board (_Leonardo_ or _Uno_ depending of your configuration)
 - if you want to go back to the official firmware, use the [mDrawBot software](https://github.com/Makeblock-official/mDrawBot)
 
