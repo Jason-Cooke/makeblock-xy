@@ -1,7 +1,7 @@
 
 <h1 align="center">XY</h1>
 <h3 align="center">Warning</h3>
-<p align="center">This is still a sperimental fork, please check the original one by
+<p align="center">This is still a experimental fork, please check the original one by
 <a href="https://github.com/arnaudjuracek/xy">https://github.com/arnaudjuracek/xy</a>.
 <br><br>This repo contains a modified version of the firmware that uses the <b>MeOrion.h</b> library by makeblock in order to keep better readability of the code.
 Currently it is still in development.</p><br>
